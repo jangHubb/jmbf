@@ -9,7 +9,7 @@ $ pip2 install futures
 ```
 # Download Git
 ```
-$ git clone https://github.com/crackige/jmbf
+$ git clone https://github.com/jangHubb/jmbf
 ```
 # Run
 ```
